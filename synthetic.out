@@ -1,0 +1,46 @@
+Training model...
+RMSE (on training data):
+  period 00 : 212.74
+  period 01 : 189.67
+  period 02 : 169.40
+  period 03 : 152.53
+  period 04 : 139.92
+  period 05 : 133.36
+  period 06 : 131.18
+  period 07 : 131.43
+  period 08 : 132.88
+  period 09 : 133.20
+Model training finished.
+       predictions  targets
+count      17000.0  17000.0
+mean         201.7    207.3
+std           93.6    116.0
+min           44.6     15.0
+25%          164.9    119.4
+50%          198.5    180.4
+75%          227.0    265.0
+max         4461.8    500.0
+Final RMSE (on training data): 133.20
+Training model...
+RMSE (on training data):
+  period 00 : 212.75
+  period 01 : 189.02
+  period 02 : 166.71
+  period 03 : 146.72
+  period 04 : 130.19
+  period 05 : 119.23
+  period 06 : 113.41
+  period 07 : 111.15
+  period 08 : 110.25
+  period 09 : 109.73
+Model training finished.
+       predictions  targets
+count      17000.0  17000.0
+mean         196.1    207.3
+std           54.8    116.0
+min           42.9     15.0
+25%          162.3    119.4
+50%          195.6    180.4
+75%          224.0    265.0
+max          518.1    500.0
+Final RMSE (on training data): 109.73
