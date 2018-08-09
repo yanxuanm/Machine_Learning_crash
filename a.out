@@ -1,0 +1,29 @@
+Mean Squared Error (on training data): 56367.025
+Root Mean Squared Error (on training data): 237.417
+Min. Median House Value: 14.999
+Max. Median House Value: 500.001
+Difference between Min. and Max.: 485.002
+Root Mean Squared Error: 237.417
+Training model...
+RMSE (on training data):
+  period 00 : 225.63
+  period 01 : 214.42
+  period 02 : 204.04
+  period 03 : 195.33
+  period 04 : 187.55
+  period 05 : 180.80
+  period 06 : 175.22
+  period 07 : 172.26
+  period 08 : 169.08
+  period 09 : 167.45
+Model training finished.
+       predictions  targets
+count      17000.0  17000.0
+mean         115.8    207.3
+std           95.5    116.0
+min            0.1     15.0
+25%           64.0    119.4
+50%           93.2    180.4
+75%          138.0    265.0
+max         1661.7    500.0
+Final RMSE (on training data): 167.45
