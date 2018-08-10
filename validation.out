@@ -1,0 +1,14 @@
+Training model...
+RMSE (on training data):
+  period 00 : 217.80
+  period 01 : 200.25
+  period 02 : 186.68
+  period 03 : 176.95
+  period 04 : 170.14
+  period 05 : 167.20
+  period 06 : 166.18
+  period 07 : 166.32
+  period 08 : 167.06
+  period 09 : 168.58
+Model training finished.
+Final RMSE (on test data): 162.86
